@@ -120,4 +120,4 @@ pic:
 6. jdk版本升级为java8。
 7. 还会逐步提供评论，全文检索，项目托管等功能或者插件。
 
-CREATE ANOTHER branch is simple;
+
